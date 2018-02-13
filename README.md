@@ -1,5 +1,5 @@
-# Packagecast.com
-Website for packagecast.com.
+# Packagecasts.com
+Website for packagecasts.com.
 
 An idea spawned from [twitter](https://twitter.com/freekmurze/status/963394072370036736) from  @freekmurze, @patrickbrouwers, and @Richard_Keep.
  
